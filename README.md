@@ -1,1 +1,1 @@
-TinDog Starting Files
+AMOL_SAMPLE starting files
